@@ -1,0 +1,2 @@
+# smagloes
+Eksamens projekt 
